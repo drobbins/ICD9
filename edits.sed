@@ -8,3 +8,7 @@ s/,/-/g;
 s/- / - /g;
 s/"//g;
 s/	/,/g;
+
+1s/DIAGNOSIS CODE/icd9code/
+1s/LONG DESCRIPTION/long_description/
+1s/SHORT DESCRIPTION/short_description/

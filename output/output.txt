@@ -1,4 +1,4 @@
-DIAGNOSIS CODE,LONG DESCRIPTION,SHORT DESCRIPTION
+icd9code,long_description,short_description
 001.0,Cholera due to vibrio cholerae,Cholera d/t vib cholerae
 001.1,Cholera due to vibrio cholerae el tor,Cholera d/t vib el tor
 001.9,Cholera - unspecified,Cholera NOS
